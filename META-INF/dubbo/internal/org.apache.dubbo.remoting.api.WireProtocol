@@ -1,0 +1,5 @@
+qos=org.apache.dubbo.qos.pu.QosWireProtocol
+
+dubbo=org.apache.dubbo.rpc.protocol.dubbo.pu.DubboWireProtocol
+
+tri=org.apache.dubbo.rpc.protocol.tri.TripleHttp2Protocol
